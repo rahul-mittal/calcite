@@ -76,6 +76,7 @@ include(
     "pig",
     "piglet",
     "plus",
+    "terracotta",
     "redis",
     "server",
     "spark",
